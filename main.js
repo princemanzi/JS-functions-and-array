@@ -110,6 +110,10 @@ const eightiesCompanies = companies.filter(company => (company.start >= 1980 && 
 
 //reduce
 
+// The reduce method reduces an array to a single value (e.g., sum, product, etc.).
+
+// Example (Sum of all ages):
+
 // get total of all ages
 
 // let ageSum = 0;
